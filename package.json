@@ -1,0 +1,17 @@
+{
+  "name": "ness-markdown-notes",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Andrea Villar",
+  "license": "AVT",
+  "dependencies": {
+    "electron": "^7.3.3",
+    "marked": "^0.7.0",
+    "nes.css": "^2.3.0"
+  }
+}
